@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">View Pager</string>
+    <string name="hello_from_green_fragment">Hello From Green fragment</string>
+    <string name="hello_from_red_fragment">Hello From Red Fragment</string>
+    <string name="text_za_blank">
+        Nogometaši Seville poslije više godina u vrhu španjolskog nogometa s trofejima u Europa ligi nalaze se u opasnoj zoni u Primeri, a poraz od Girone protekli vikend dolio je ulje na vatru.
+
+Ekstremniji navijači ostavili su im zato jezivu poruku na ulazu u trening kamp.
+
+"Ispadnete li, nećete se imati gdje sakriti‘‘, ispisano je sprejem pokraj ulaza.
+        Situacija u klubu nije lagana trenutačno, a ova poruka vjerojatno neće djelovati suviše motivirajuće jer je ispisana vrlo ekstremnim tonom. Zvuči kao ozbiljna prijetnja i sigurno neće dobro sjesti Rakitiću i njegovim suigračima.
+        Hrvatski reprezentativac je kao kapetan jedan od junaka navijača, koji su ga obožavali i kad je igrao za Barcelonu, a on im je na simpatije uzvraćao u to vrijeme i prije nekoliko sezona kad je ispunio obećanje i vratio se u klub u kojem se želi i umiroviti.
+
+    </string>
+</resources>
